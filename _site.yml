@@ -1,0 +1,10 @@
+name: "Elective Away for Credit Dashboard!"
+header-includes: 
+  \usepackage{graphicx}
+  \usepackage{float}
+output_dir: "."
+navbar:
+  title: "Elective Away for Credit Dashboard"
+output:  
+   html_document:
+    theme: flatly
